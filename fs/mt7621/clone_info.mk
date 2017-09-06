@@ -1,0 +1,1 @@
+clones/a6nm/clone_info.mk
